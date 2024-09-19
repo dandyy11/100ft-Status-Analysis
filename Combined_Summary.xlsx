@@ -1,0 +1,17 @@
+﻿"Serial_Number","Sum of Life, yrs","TopDrive Status","max_torque_above_3standard","max_torque_above_2standard","max_torque_below_3standard","max_torque_below_2standard","avg_torque_above_3standard","avg_torque_above_2standard","avg_torque_below_3standard","avg_torque_below_2standard","rpm_above_3standard","rpm_above_2standard","rpm_below_3standard","rpm_below_2standard","wob_above_3standard","wob_above_2standard","wob_below_3standard","wob_below_2standard","deltap_above_3standard","deltap_above_2standard","deltap_below_3standard","deltap_below_2standard","rop_above_3standard","rop_above_2standard","rop_below_3standard","rop_below_2standard"
+"A1240",2.26,"Failed",3,27,NA,10,6,115,NA,10,NA,409,NA,26,NA,NA,NA,9,NA,35,NA,3,NA,NA,NA,NA
+"A180380",0.852054794520548,"Failed",19,63,NA,1,17,66,NA,1,NA,NA,NA,16,NA,4,NA,6,NA,5,NA,3,NA,1,NA,NA
+"A209138",5.0293758878741714,"Active",32,106,1,1,56,87,NA,1,NA,NA,NA,13,NA,1,NA,2,NA,NA,NA,1,NA,NA,NA,NA
+"A44880",1.16986301369863,"Failed",11,71,NA,NA,NA,75,NA,NA,NA,NA,NA,8,1,102,NA,NA,NA,12,NA,NA,NA,NA,NA,NA
+"A000214",2.87,"Failed",NA,2,NA,NA,1,25,NA,NA,NA,NA,NA,4,NA,3,NA,1,49,180,1,2,11,116,NA,NA
+"A113771",4.5698630136986305,"Failed",NA,6,NA,NA,NA,NA,NA,NA,NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA
+"A187401",3.440873953576873,"Failed",NA,97,1,8,10,112,NA,8,NA,NA,NA,5,NA,8,NA,18,2,74,1,6,NA,18,NA,NA
+"A55577",5.787650748351086,"Active",NA,6,NA,15,NA,7,NA,15,NA,NA,NA,17,NA,NA,NA,15,NA,NA,NA,6,NA,NA,NA,NA
+"A208648",5.519710743277532,"Active",NA,NA,1,54,NA,NA,NA,54,NA,NA,NA,30,NA,NA,3,179,NA,5,NA,13,NA,122,NA,NA
+"A72154",5.812112696600714,"Active",NA,NA,1,18,NA,NA,NA,18,NA,NA,NA,33,NA,3,NA,58,1,205,NA,5,82,107,NA,NA
+"A108265",4.101369863013699,"Failed",NA,NA,NA,7,NA,NA,NA,7,NA,51,NA,7,2,15,NA,7,NA,NA,NA,2,NA,NA,NA,NA
+"A110531",5.944393613647904,"Active",NA,NA,NA,11,NA,NA,NA,11,NA,NA,NA,18,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+"A115150",5.789041095890411,"Failed",NA,NA,NA,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,1,5,NA,NA,NA,NA
+"A500814",5.593534183155762,"Active",NA,NA,NA,11,NA,NA,NA,11,NA,NA,NA,15,NA,NA,NA,7,NA,NA,1,2,NA,NA,NA,NA
+"A702445",5.616704718417038,"Active",NA,NA,NA,49,NA,NA,NA,49,NA,NA,NA,24,NA,NA,2,105,NA,1,1,23,173,140,NA,NA
+"A51019",1.7941577879249115,"Failed",NA,NA,NA,NA,NA,38,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,3,27,NA,1,NA,NA
